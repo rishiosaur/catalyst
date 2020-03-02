@@ -20,6 +20,9 @@ Rishi Kothari's 2020 Application. #CLASS: subtitle
 === Housing ===
 = Start
 # Welcome.
+
+The application video is currently processing on YouTube. If you'd like to see the status, please see <a href="https:\/\/youtu.be\/RLvUKTGXlY4">the Youtube Page</a>.
+
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/RLvUKTGXlY4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * [<span class="play">Learn More</span>]
