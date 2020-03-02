@@ -21,7 +21,7 @@ Rishi Kothari's 2020 Application. #CLASS: subtitle
 = Start
 # Welcome.
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/RLvUKTGXlY4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https:\/\/www.youtube.com\/embed\/RLvUKTGXlY4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen><\/iframe>
 
 * [<span class="play">Learn More</span>]
   -> Housing.View
